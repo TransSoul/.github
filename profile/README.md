@@ -1,6 +1,7 @@
 <div align=center>
 <img src="https://raw.githubusercontent.com/TransSoul/.github/refs/heads/main/logo.jpg" width="175" height="175">
 <h1>TransSoul</h1>
+<p>我们是一个为跨性别者提供支持的团队</p>
 </div>
 
 ## 團隊使命
